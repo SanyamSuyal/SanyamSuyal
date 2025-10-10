@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.sanyamsuyal.dev">
-    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfdolio"/>
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/>
   </a>
 </p>
 
