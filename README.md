@@ -21,7 +21,7 @@
 ### 🧠 AI & Web
 
 [![Nodio](https://img.shields.io/badge/Nodio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nodio.me)  
-→ Smart developer platform (your new main project)
+ → Affordable cloud storage powered by a decentralized network of user-contributed nodes
 
 [![CodeVisio](https://img.shields.io/badge/CodeVisio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://codevisio.vercel.app)  
 → Real-time collaborative code editor  
