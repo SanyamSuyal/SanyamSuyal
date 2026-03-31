@@ -21,7 +21,7 @@
 ### 🧠 AI & Web
 
 [![Nodio](https://img.shields.io/badge/Nodio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nodio.me)  
- → Affordable cloud storage powered by a decentralized network of user-contributed nodes
+→ Affordable cloud storage powered by a decentralized network of user-contributed nodes
 
 [![XyteDrop](https://img.shields.io/badge/XyteDrop-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xyte-drop.vercel.app)  
 → Multi-platform file sharing platform with secure end-to-end transfers across devices
@@ -49,6 +49,9 @@
   </a>
   <a href="https://discord.gg/ur_lost">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://x.com/sanyamsuyal">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:sanyamsuyal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
