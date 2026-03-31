@@ -23,8 +23,8 @@
 [![Nodio](https://img.shields.io/badge/Nodio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nodio.me)  
  → Affordable cloud storage powered by a decentralized network of user-contributed nodes
 
-[![CodeVisio](https://img.shields.io/badge/CodeVisio-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://codevisio.vercel.app)  
-→ Real-time collaborative code editor  
+[![XyteDrop](https://img.shields.io/badge/XyteDrop-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://xyte-drop.vercel.app)  
+→ Multi-platform file sharing platform with secure end-to-end transfers across devices
 
 [![NextBench AI](https://img.shields.io/badge/NextBench%20AI-1B1F23?style=for-the-badge&logo=openai&logoColor=white)](https://next-bench-dev.vercel.app)  
 → AI assistant for school discovery  
